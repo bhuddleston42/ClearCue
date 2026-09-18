@@ -1,0 +1,5 @@
+package-as: ClearCue
+
+ignore:
+  - tests
+  - Media/Icon.png

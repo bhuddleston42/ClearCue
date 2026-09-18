@@ -4,6 +4,7 @@
 ## Notes: Readable combat recommendations and conditional reminders.
 ## Author: ClearCue contributors
 ## Version: 0.1.0-alpha
+## X-Curse-Project-ID: 1700643
 ## SavedVariables: ClearCueDB
 ## OptionalDeps: EllesmereUI, LibSharedMedia-3.0, LibDataBroker-1.1
 Core.lua
