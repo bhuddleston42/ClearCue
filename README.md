@@ -45,6 +45,14 @@ Cooldown and health/resource values flow into Blizzard duration/curve display AP
 6. Verify bindings after page/spec changes and reload. Check macro and modifier labels.
 7. Change fonts, timers and charge options; inspect live cooldown text as well as preview. Reload to verify persistence.
 
+## Other addons I've used and loved
+
+Rotation helpers are a personal thing. I know—I wrote my own! If ClearCue isn't your thing, take a look at some of the addons I've used and loved:
+
+- [Simple Assisted Combat Icon](https://www.curseforge.com/wow/addons/simple-assisted-combat-icon)
+- [Floating Interrupt Highlight](https://www.curseforge.com/wow/addons/floating-interrupt-highlight)
+- [Hekili](https://www.curseforge.com/wow/addons/hekili)
+
 ## Development
 
 From the addon directory, run `luac -p Core.lua Options.lua Broker.lua tests/smoke.lua` and `lua tests/smoke.lua` with Lua 5.1. The smoke tests mock WoW APIs; they supplement the in-game checklist above.
