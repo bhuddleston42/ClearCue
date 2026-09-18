@@ -1,0 +1,10 @@
+## Interface: 120100
+## Title: ClearCue
+## Notes: Readable combat recommendations and conditional reminders.
+## Author: ClearCue contributors
+## Version: 0.1.0-alpha
+## SavedVariables: ClearCueDB
+## OptionalDeps: EllesmereUI, LibSharedMedia-3.0, LibDataBroker-1.1
+Core.lua
+Options.lua
+Broker.lua
