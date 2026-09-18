@@ -1,5 +1,6 @@
 ## Interface: 120100
 ## Title: ClearCue
+## IconTexture: Interface\AddOns\ClearCue\Media\Icon.tga
 ## Notes: Readable combat recommendations and conditional reminders.
 ## Author: ClearCue contributors
 ## Version: 0.1.0-alpha

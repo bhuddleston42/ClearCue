@@ -10,7 +10,7 @@ function C:RegisterBroker()
     if not library then return end
     self.broker=library:NewDataObject("ClearCue",{
         type="launcher", label="ClearCue", text="ClearCue",
-        icon="Interface\\Icons\\UI_Spellbook_OneButton",
+        icon="Interface\\AddOns\\ClearCue\\Media\\Icon.tga",
         OnClick=function(_,button)
             if button=="RightButton" then C:ToggleEdit()
             elseif button=="LeftButton" then C:OpenOptions() end

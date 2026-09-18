@@ -1,5 +1,7 @@
 # ClearCue — 0.1.0 alpha
 
+<img src="Media/Icon.png" width="128" height="128" alt="ClearCue icon">
+
 A Retail WoW addon with a readable next-spell cue, interrupt cue and four per-specialization defensive reminders. Customize fonts, keybind labels and visibility to fit your UI.
 
 ## Start
